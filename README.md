@@ -1,2 +1,268 @@
-# WebsiteCompany
-GitHub Pages
+<!DOCTYPE html>
+<html  >
+<head>
+  <!-- Site made with Mobirise Website Builder v4.10.6, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v4.10.6, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/bcg-2-122x122.png" type="image/x-icon">
+  <meta name="description" content="">
+  
+  <title>Home</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/gdpr-plugin/gdpr-styles.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
+  <section class="menu cid-qTkzRZLJNu" once="menu" id="menu1-0">
+
+    
+
+    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </button>
+        <div class="menu-logo">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    
+                         <img src="assets/images/bcg-2-122x122.png" alt="Mobirise" title="" style="height: 3.8rem;">
+                    
+                </span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="https://mobirise.com">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></span>
+            </div>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item">
+                    <a class="nav-link link text-white display-4" href="home.html">
+                        <span class="mbri-home mbr-iconfont mbr-iconfont-btn"></span>Home</a>
+                </li><li class="nav-item">
+                    <a class="nav-link link text-white display-4" href="aboutus.html"><span class="mbri-search mbr-iconfont mbr-iconfont-btn"></span>
+                        
+                        About Us
+                    </a>
+                </li><li class="nav-item"><a class="nav-link link text-white display-4" href="services.html"><span class="mbri-change-style mbr-iconfont mbr-iconfont-btn"></span>Services</a></li><li class="nav-item"><a class="nav-link link text-white display-4" href="design.html"><span class="mbri-change-style mbr-iconfont mbr-iconfont-btn"></span>
+                        
+                        Design</a></li><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle text-white display-4" href="page3.html" data-toggle="dropdown-submenu" aria-expanded="false"><span class="mobi-mbri mobi-mbri-website-theme mbr-iconfont mbr-iconfont-btn"></span>Product</a><div class="dropdown-menu"><a class="dropdown-item text-white display-4" href="page3.html" aria-expanded="false">T-Shirt</a><a class="dropdown-item text-white display-4" href="page3.html" aria-expanded="false">Cap</a><a class="dropdown-item text-white display-4" href="page3.html" aria-expanded="false">Corporate Uniform</a><a class="dropdown-item text-white display-4" href="page3.html" aria-expanded="false">Apron</a><a class="text-white dropdown-item display-4" href="page3.html" aria-expanded="false">Non Woven Bag</a><a class="text-white dropdown-item display-4" href="page3.html" aria-expanded="false">Canvas Bag</a><a class="text-white dropdown-item display-4" href="page3.html" aria-expanded="false">Mug</a></div></li></ul>
+            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-secondary display-4" href="getquote.html">Get Quote</a></div>
+        </div>
+    </nav>
+</section>
+
+<section class="engine"><a href="https://mobirise.info/z">best free html templates</a></section><section class="cid-qTkA127IK8 mbr-fullscreen mbr-parallax-background" id="header2-1">
+
+    
+
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(118, 118, 118);"></div>
+
+    <div class="container align-center">
+        <div class="row justify-content-md-center">
+            <div class="mbr-white col-md-10">
+                <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1">BOOST YOUR BRAND</h1>
+                
+                <p class="mbr-text pb-3 mbr-fonts-style display-5">
+                    Be Bold, Be different with your fully customized T-Shirt &amp; Promotional Product</p>
+                <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="services.html">LEARN MORE</a></div>
+            </div>
+        </div>
+    </div>
+    <div class="mbr-arrow hidden-sm-down" aria-hidden="true">
+        <a href="#next">
+            <i class="mbri-down mbr-iconfont"></i>
+        </a>
+    </div>
+</section>
+
+<section class="header12 cid-rxMCufATBG" data-bg-video="https://www.youtube.com/watch?v=yYXsprQeelI" id="header12-9">
+
+    
+
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(35, 35, 35);">
+    </div>
+
+    <div class="container  ">
+            <div class="media-container">
+                <div class="col-md-12 align-center">
+                    <h1 class="mbr-section-title pb-3 mbr-white mbr-bold mbr-fonts-style display-1">OUR APPROACH</h1>
+                    
+                    
+
+                    <div class="icons-media-container mbr-white">
+                        <div class="card col-12 col-md-6 col-lg-3">
+                            <div class="icon-block">
+                            <a href="design.html">
+                                <span class="mbr-iconfont mbrib-idea"></span>
+                            </a>
+                            </div>
+                            <h5 class="mbr-fonts-style display-5">Ideation</h5>
+                        </div>
+
+                        <div class="card col-12 col-md-6 col-lg-3">
+                            <div class="icon-block">
+                                <a href="design.html">
+                                    <span class="mbr-iconfont mbrib-desktop"></span>
+                                </a>
+                            </div>
+                            <h5 class="mbr-fonts-style display-5">Design</h5>
+                        </div>
+
+                        <div class="card col-12 col-md-6 col-lg-3">
+                            <div class="icon-block">
+                                <a href="services.html">
+                                    <span class="mbr-iconfont mbrib-print"></span>
+                                </a>
+                            </div>
+                            <h5 class="mbr-fonts-style display-5">
+                                Print</h5>
+                        </div>
+
+                        <div class="card col-12 col-md-6 col-lg-3">
+                            <div class="icon-block">
+                                <a href="https://www.tracking.my/" target="_blank">
+                                    <span class="mbr-iconfont mbrib-delivery"></span>
+                                </a>
+                            </div>
+                            <h5 class="mbr-fonts-style display-5">
+                                Deliverables
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+
+    
+</section>
+
+<section class="header4 cid-rxMCok25Ex mbr-parallax-background" id="header4-8">
+
+    
+
+    <div class="mbr-overlay" style="opacity: 0.8; background-color: rgb(35, 35, 35);">
+    </div>
+
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="media-content col-md-10">
+                <h1 class="mbr-section-title align-center mbr-white pb-3 mbr-bold mbr-fonts-style display-1">NOT JUST T-SHIRT</h1>
+                
+                <div class="mbr-text align-center mbr-white pb-3">
+                    <p class="mbr-text mbr-fonts-style display-5">
+                        Enhance your brand with our wide variations of trendy products that you will love.<br></p>
+                </div>
+                
+            </div>
+            <div class="mbr-figure pt-5">
+                <img src="assets/images/untitled-12-1368x770.png" alt="Mobirise" title="" style="width: 60%;">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-rxN5mIh8Y4" id="footer1-3">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row content text-white">
+            <div class="col-12 col-md-3">
+                <div class="media-wrap">
+                    <a href="https://mobirise.co/">
+                        <img src="assets/images/bcg-192x192.png" alt="Mobirise" title="">
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Address
+                </h5>
+                <p class="mbr-text">27A Jalan Medan Ipoh 1A<br>Medan Ipoh Bistari<br>31400 Ipoh</p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Contacts
+                </h5>
+                <p class="mbr-text">
+                    Email: bcgsale01@gmail.com &nbsp; &nbsp; &nbsp; &nbsp;<br>Phone: 05-5462633&nbsp;<br>Fax: 05-5499626<br></p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Legal</h5>
+                <p class="mbr-text">Terms of Services<br>Privacy Policy<br>Refund Policy</p>
+            </div>
+        </div>
+        <div class="footer-lower">
+            <div class="media-container-row">
+                <div class="col-sm-12">
+                    <hr>
+                </div>
+            </div>
+            <div class="media-container-row mbr-white">
+                <div class="col-sm-6 copyright">
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        © Copyright 2019 - All Rights Reserved<br>Created by BC-Global
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    <div class="social-list align-right">
+                        <div class="soc-item">
+                            <a href="https://api.whatsapp.com/send?phone=60124190339" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-whatsapp socicon"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.facebook.com/bcgshirtprinting/" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon"></span>
+                            </a>
+                        </div>
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/parallax/jarallax.min.js"></script>
+  <script src="assets/vimeoplayer/jquery.mb.vimeo_player.js"></script>
+  <script src="assets/ytplayer/jquery.mb.ytplayer.min.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/cookies-alert-plugin/cookies-alert-core.js"></script>
+  <script src="assets/cookies-alert-plugin/cookies-alert-script.js"></script>
+  <script src="assets/dropdown/js/nav-dropdown.js"></script>
+  <script src="assets/dropdown/js/navbar-dropdown.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  
+  
+<input name="cookieData" type="hidden"data-cookie-colorText='#424a4d' data-cookie-colorBg='rgba(234, 239, 241, 0.99)' data-cookie-colorButton='#ffffff' data-cookie-colorLink='#424a4d' data-cookie-underlineLink='true' data-cookie-text="We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.">
+  </body>
+</html>
